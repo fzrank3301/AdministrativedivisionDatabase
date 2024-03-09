@@ -1,0 +1,1232 @@
+{
+    "AW": {
+        "country_cn": "阿鲁巴",
+        "country_en": "Aruba",
+        "iso_3": "ABW"
+    },
+    "AF": {
+        "country_cn": "阿富汗",
+        "country_en": "Afghanistan",
+        "iso_3": "AFG"
+    },
+    "AO": {
+        "country_cn": "安哥拉",
+        "country_en": "Angola",
+        "iso_3": "AGO"
+    },
+    "AI": {
+        "country_cn": "安圭拉",
+        "country_en": "Anguilla",
+        "iso_3": "AIA"
+    },
+    "AX": {
+        "country_cn": "奥兰",
+        "country_en": "Aland",
+        "iso_3": "ALA"
+    },
+    "AL": {
+        "country_cn": "阿尔巴尼亚",
+        "country_en": "Albania",
+        "iso_3": "ALB"
+    },
+    "AD": {
+        "country_cn": "安道尔",
+        "country_en": "Andorra",
+        "iso_3": "AND"
+    },
+    "AE": {
+        "country_cn": "阿联酋",
+        "country_en": "United Arab Emirates",
+        "iso_3": "ARE"
+    },
+    "AR": {
+        "country_cn": "阿根廷",
+        "country_en": "Argentina",
+        "iso_3": "ARG"
+    },
+    "AM": {
+        "country_cn": "亚美尼亚",
+        "country_en": "Armenia",
+        "iso_3": "ARM"
+    },
+    "AS": {
+        "country_cn": "美属萨摩亚",
+        "country_en": "American Samoa",
+        "iso_3": "ASM"
+    },
+    "TF": {
+        "country_cn": "法属南部领地",
+        "country_en": "French Southern Territories",
+        "iso_3": "ATF"
+    },
+    "AG": {
+        "country_cn": "安提瓜和巴布达",
+        "country_en": "Antigua and Barbuda",
+        "iso_3": "ATG"
+    },
+    "AU": {
+        "country_cn": "澳大利亚",
+        "country_en": "Australia",
+        "iso_3": "AUS"
+    },
+    "AT": {
+        "country_cn": "奥地利",
+        "country_en": "Austria",
+        "iso_3": "AUT"
+    },
+    "AZ": {
+        "country_cn": "阿塞拜疆",
+        "country_en": "Azerbaijan",
+        "iso_3": "AZE"
+    },
+    "BI": {
+        "country_cn": "布隆迪",
+        "country_en": "Burundi",
+        "iso_3": "BDI"
+    },
+    "BE": {
+        "country_cn": "比利时",
+        "country_en": "Belgium",
+        "iso_3": "BEL"
+    },
+    "BJ": {
+        "country_cn": "贝宁",
+        "country_en": "Benin",
+        "iso_3": "BEN"
+    },
+    "BQ": {
+        "country_cn": "博内尔、圣尤斯特歇斯和沙巴",
+        "country_en": "Bonaire, Sint Eustatius and Saba",
+        "iso_3": "BES"
+    },
+    "BF": {
+        "country_cn": "布基纳法索",
+        "country_en": "Burkina Faso",
+        "iso_3": "BFA"
+    },
+    "BD": {
+        "country_cn": "孟加拉国",
+        "country_en": "Bangladesh",
+        "iso_3": "BGD"
+    },
+    "BG": {
+        "country_cn": "保加利亚",
+        "country_en": "Bulgaria",
+        "iso_3": "BGR"
+    },
+    "BH": {
+        "country_cn": "巴林",
+        "country_en": "Bahrain",
+        "iso_3": "BHR"
+    },
+    "BS": {
+        "country_cn": "巴哈马",
+        "country_en": "Bahamas",
+        "iso_3": "BHS"
+    },
+    "BA": {
+        "country_cn": "波黑",
+        "country_en": "Bosnia and Herzegovina",
+        "iso_3": "BIH"
+    },
+    "BL": {
+        "country_cn": "圣巴泰勒米",
+        "country_en": "Saint Barthelemy",
+        "iso_3": "BLM"
+    },
+    "BY": {
+        "country_cn": "白俄罗斯",
+        "country_en": "Belarus",
+        "iso_3": "BLR"
+    },
+    "BZ": {
+        "country_cn": "伯利兹",
+        "country_en": "Belize",
+        "iso_3": "BLZ"
+    },
+    "BM": {
+        "country_cn": "百慕大",
+        "country_en": "Bermuda",
+        "iso_3": "BMU"
+    },
+    "BO": {
+        "country_cn": "玻利维亚",
+        "country_en": "Bolivia",
+        "iso_3": "BOL"
+    },
+    "BR": {
+        "country_cn": "巴西",
+        "country_en": "Brazil",
+        "iso_3": "BRA"
+    },
+    "BB": {
+        "country_cn": "巴巴多斯",
+        "country_en": "Barbados",
+        "iso_3": "BRB"
+    },
+    "BN": {
+        "country_cn": "文莱",
+        "country_en": "Brunei",
+        "iso_3": "BRN"
+    },
+    "BT": {
+        "country_cn": "不丹",
+        "country_en": "Bhutan",
+        "iso_3": "BTN"
+    },
+    "BV": {
+        "country_cn": "布韦岛",
+        "country_en": "Bouvet Island",
+        "iso_3": "BVT"
+    },
+    "BW": {
+        "country_cn": "博茨瓦纳",
+        "country_en": "Botswana",
+        "iso_3": "BWA"
+    },
+    "CF": {
+        "country_cn": "中非共和国",
+        "country_en": "Central African Republic",
+        "iso_3": "CAF"
+    },
+    "CA": {
+        "country_cn": "加拿大",
+        "country_en": "Canada",
+        "iso_3": "CAN"
+    },
+    "CC": {
+        "country_cn": "科科斯群岛",
+        "country_en": "Cocos Islands",
+        "iso_3": "CCK"
+    },
+    "CH": {
+        "country_cn": "瑞士",
+        "country_en": "Switzerland",
+        "iso_3": "CHE"
+    },
+    "CL": {
+        "country_cn": "智利",
+        "country_en": "Chile",
+        "iso_3": "CHL"
+    },
+    "CN": {
+        "country_cn": "中国",
+        "country_en": "China",
+        "iso_3": "CHN"
+    },
+    "CI": {
+        "country_cn": "科特迪瓦",
+        "country_en": "CtedIvoire",
+        "iso_3": "CIV"
+    },
+    "CM": {
+        "country_cn": "喀麦隆",
+        "country_en": "Cameroon",
+        "iso_3": "CMR"
+    },
+    "CD": {
+        "country_cn": "刚果民主共和国",
+        "country_en": "Democratic Republic of the Congo",
+        "iso_3": "COD"
+    },
+    "CG": {
+        "country_cn": "刚果共和国",
+        "country_en": "Republic of the Congo",
+        "iso_3": "COG"
+    },
+    "CK": {
+        "country_cn": "库克群岛",
+        "country_en": "Cook Islands",
+        "iso_3": "COK"
+    },
+    "CO": {
+        "country_cn": "哥伦比亚",
+        "country_en": "Colombia",
+        "iso_3": "COL"
+    },
+    "KM": {
+        "country_cn": "科摩罗",
+        "country_en": "Comoros",
+        "iso_3": "COM"
+    },
+    "CV": {
+        "country_cn": "佛得角",
+        "country_en": "Cabo Verde",
+        "iso_3": "CPV"
+    },
+    "CR": {
+        "country_cn": "哥斯达黎加",
+        "country_en": "Costa Rica",
+        "iso_3": "CRI"
+    },
+    "CU": {
+        "country_cn": "古巴",
+        "country_en": "Cuba",
+        "iso_3": "CUB"
+    },
+    "CW": {
+        "country_cn": "库拉索",
+        "country_en": "Curasao",
+        "iso_3": "CUW"
+    },
+    "CX": {
+        "country_cn": "圣诞岛",
+        "country_en": "Christmas Island",
+        "iso_3": "CXR"
+    },
+    "KY": {
+        "country_cn": "开曼群岛",
+        "country_en": "Cayman Islands",
+        "iso_3": "CYM"
+    },
+    "CY": {
+        "country_cn": "北塞浦路斯土耳其共和国",
+        "country_en": "Turkish Republic of Northern Cyprus",
+        "iso_3": "CYP"
+    },
+    "CZ": {
+        "country_cn": "捷克共和国",
+        "country_en": "Czech Republic",
+        "iso_3": "CZE"
+    },
+    "DE": {
+        "country_cn": "德国",
+        "country_en": "Germany",
+        "iso_3": "DEU"
+    },
+    "DJ": {
+        "country_cn": "吉布提",
+        "country_en": "Djibouti",
+        "iso_3": "DJI"
+    },
+    "DM": {
+        "country_cn": "多米尼克",
+        "country_en": "Dominica",
+        "iso_3": "DMA"
+    },
+    "DK": {
+        "country_cn": "丹麦",
+        "country_en": "Denmark",
+        "iso_3": "DNK"
+    },
+    "DO": {
+        "country_cn": "多米尼加共和国",
+        "country_en": "Dominican Republic",
+        "iso_3": "DOM"
+    },
+    "DZ": {
+        "country_cn": "阿尔及利亚",
+        "country_en": "Algeria",
+        "iso_3": "DZA"
+    },
+    "EC": {
+        "country_cn": "厄瓜多尔",
+        "country_en": "Ecuador",
+        "iso_3": "ECU"
+    },
+    "EG": {
+        "country_cn": "埃及",
+        "country_en": "Egypt",
+        "iso_3": "EGY"
+    },
+    "ER": {
+        "country_cn": "厄立特里亚",
+        "country_en": "Eritrea",
+        "iso_3": "ERI"
+    },
+    "EH": {
+        "country_cn": "西撒哈拉",
+        "country_en": "Western Sahara",
+        "iso_3": "ESH"
+    },
+    "ES": {
+        "country_cn": "西班牙",
+        "country_en": "Spain",
+        "iso_3": "ESP"
+    },
+    "EE": {
+        "country_cn": "爱沙尼亚",
+        "country_en": "Estonia",
+        "iso_3": "EST"
+    },
+    "ET": {
+        "country_cn": "埃塞俄比亚",
+        "country_en": "Ethiopia",
+        "iso_3": "ETH"
+    },
+    "FI": {
+        "country_cn": "芬兰",
+        "country_en": "Finland",
+        "iso_3": "FIN"
+    },
+    "FJ": {
+        "country_cn": "斐济",
+        "country_en": "Fiji",
+        "iso_3": "FJI"
+    },
+    "FK": {
+        "country_cn": "福克兰群岛",
+        "country_en": "Falkland Islands",
+        "iso_3": "FLK"
+    },
+    "FR": {
+        "country_cn": "法国",
+        "country_en": "France",
+        "iso_3": "FRA"
+    },
+    "FO": {
+        "country_cn": "法罗群岛",
+        "country_en": "Faroe Islands",
+        "iso_3": "FRO"
+    },
+    "FM": {
+        "country_cn": "密克罗尼西亚",
+        "country_en": "Micronesia",
+        "iso_3": "FSM"
+    },
+    "GA": {
+        "country_cn": "加蓬",
+        "country_en": "Gabon",
+        "iso_3": "GAB"
+    },
+    "GB": {
+        "country_cn": "北爱尔兰",
+        "country_en": "Northern Ireland",
+        "iso_3": "GBR"
+    },
+    "GE": {
+        "country_cn": "格鲁吉亚",
+        "country_en": "Georgia",
+        "iso_3": "GEO"
+    },
+    "GG": {
+        "country_cn": "根西岛",
+        "country_en": "Guernsey",
+        "iso_3": "GGY"
+    },
+    "GH": {
+        "country_cn": "加纳",
+        "country_en": "Ghana",
+        "iso_3": "GHA"
+    },
+    "GI": {
+        "country_cn": "直布罗陀",
+        "country_en": "Gibraltar",
+        "iso_3": "GIB"
+    },
+    "GN": {
+        "country_cn": "几内亚",
+        "country_en": "Guinea",
+        "iso_3": "GIN"
+    },
+    "GP": {
+        "country_cn": "瓜德罗普",
+        "country_en": "Guadeloupe",
+        "iso_3": "GLP"
+    },
+    "GM": {
+        "country_cn": "冈比亚",
+        "country_en": "Gambia",
+        "iso_3": "GMB"
+    },
+    "GW": {
+        "country_cn": "几内亚比绍",
+        "country_en": "Guinea-Bissau",
+        "iso_3": "GNB"
+    },
+    "GQ": {
+        "country_cn": "赤道几内亚",
+        "country_en": "Equatorial Guinea",
+        "iso_3": "GNQ"
+    },
+    "GR": {
+        "country_cn": "希腊",
+        "country_en": "Greece",
+        "iso_3": "GRC"
+    },
+    "GD": {
+        "country_cn": "格林纳达",
+        "country_en": "Grenada",
+        "iso_3": "GRD"
+    },
+    "GT": {
+        "country_cn": "危地马拉",
+        "country_en": "Guatemala",
+        "iso_3": "GTM"
+    },
+    "GF": {
+        "country_cn": "法属圭亚那",
+        "country_en": "French Guiana",
+        "iso_3": "GUF"
+    },
+    "GU": {
+        "country_cn": "关岛",
+        "country_en": "Guam",
+        "iso_3": "GUM"
+    },
+    "GY": {
+        "country_cn": "圭亚那",
+        "country_en": "Guyana",
+        "iso_3": "GUY"
+    },
+    "HM": {
+        "country_cn": "赫德岛和麦克唐纳群岛",
+        "country_en": "Heard Island and McDonald Islands",
+        "iso_3": "HMD"
+    },
+    "HN": {
+        "country_cn": "洪都拉斯",
+        "country_en": "Honduras",
+        "iso_3": "HND"
+    },
+    "HR": {
+        "country_cn": "克罗地亚",
+        "country_en": "Croatia",
+        "iso_3": "HRV"
+    },
+    "HT": {
+        "country_cn": "海地",
+        "country_en": "Haiti",
+        "iso_3": "HTI"
+    },
+    "HU": {
+        "country_cn": "匈牙利",
+        "country_en": "Hungary",
+        "iso_3": "HUN"
+    },
+    "ID": {
+        "country_cn": "印度尼西亚",
+        "country_en": "Indonesia",
+        "iso_3": "IDN"
+    },
+    "IM": {
+        "country_cn": "马恩岛",
+        "country_en": "Isle of Man",
+        "iso_3": "IMN"
+    },
+    "IN": {
+        "country_cn": "印度",
+        "country_en": "India",
+        "iso_3": "IND"
+    },
+    "IO": {
+        "country_cn": "英属印度洋领地",
+        "country_en": "British Indian Ocean Territory",
+        "iso_3": "IOT"
+    },
+    "IE": {
+        "country_cn": "爱尔兰",
+        "country_en": "Ireland",
+        "iso_3": "IRL"
+    },
+    "IR": {
+        "country_cn": "伊朗",
+        "country_en": "Iran",
+        "iso_3": "IRN"
+    },
+    "IQ": {
+        "country_cn": "伊拉克",
+        "country_en": "Iraq",
+        "iso_3": "IRQ"
+    },
+    "IS": {
+        "country_cn": "冰岛",
+        "country_en": "Iceland",
+        "iso_3": "ISL"
+    },
+    "IL": {
+        "country_cn": "以色列",
+        "country_en": "Israel",
+        "iso_3": "ISR"
+    },
+    "IT": {
+        "country_cn": "意大利",
+        "country_en": "Italy",
+        "iso_3": "ITA"
+    },
+    "JM": {
+        "country_cn": "牙买加",
+        "country_en": "Jamaica",
+        "iso_3": "JAM"
+    },
+    "JE": {
+        "country_cn": "泽西岛",
+        "country_en": "Jersey",
+        "iso_3": "JEY"
+    },
+    "JO": {
+        "country_cn": "约旦",
+        "country_en": "Jordan",
+        "iso_3": "JOR"
+    },
+    "JP": {
+        "country_cn": "日本",
+        "country_en": "Japan",
+        "iso_3": "JPN"
+    },
+    "KZ": {
+        "country_cn": "哈萨克斯坦",
+        "country_en": "Kazakhstan",
+        "iso_3": "KAZ"
+    },
+    "KE": {
+        "country_cn": "肯尼亚",
+        "country_en": "Kenya",
+        "iso_3": "KEN"
+    },
+    "KG": {
+        "country_cn": "吉尔吉斯斯坦",
+        "country_en": "Kyrgyzstan",
+        "iso_3": "KGZ"
+    },
+    "KH": {
+        "country_cn": "柬埔寨",
+        "country_en": "Cambodia",
+        "iso_3": "KHM"
+    },
+    "KI": {
+        "country_cn": "基里巴斯",
+        "country_en": "Kiribati",
+        "iso_3": "KIR"
+    },
+    "KN": {
+        "country_cn": "圣基茨和尼维斯",
+        "country_en": "Saint Kitts and Nevis",
+        "iso_3": "KNA"
+    },
+    "KR": {
+        "country_cn": "韩国",
+        "country_en": "South Korea",
+        "iso_3": "KOR"
+    },
+    "KW": {
+        "country_cn": "科威特",
+        "country_en": "Kuwait",
+        "iso_3": "KWT"
+    },
+    "LA": {
+        "country_cn": "老挝",
+        "country_en": "Laos",
+        "iso_3": "LAO"
+    },
+    "LB": {
+        "country_cn": "黎巴嫩",
+        "country_en": "Lebanon",
+        "iso_3": "LBN"
+    },
+    "LR": {
+        "country_cn": "利比里亚",
+        "country_en": "Liberia",
+        "iso_3": "LBR"
+    },
+    "LY": {
+        "country_cn": "利比亚",
+        "country_en": "Libya",
+        "iso_3": "LBY"
+    },
+    "LC": {
+        "country_cn": "圣卢西亚",
+        "country_en": "Saint Lucia",
+        "iso_3": "LCA"
+    },
+    "LI": {
+        "country_cn": "列支敦士登",
+        "country_en": "Liechtenstein",
+        "iso_3": "LIE"
+    },
+    "LK": {
+        "country_cn": "斯里兰卡",
+        "country_en": "Sri Lanka",
+        "iso_3": "LKA"
+    },
+    "LS": {
+        "country_cn": "莱索托",
+        "country_en": "Lesotho",
+        "iso_3": "LSO"
+    },
+    "LT": {
+        "country_cn": "立陶宛",
+        "country_en": "Lithuania",
+        "iso_3": "LTU"
+    },
+    "LU": {
+        "country_cn": "卢森堡",
+        "country_en": "Luxembourg",
+        "iso_3": "LUX"
+    },
+    "LV": {
+        "country_cn": "拉脱维亚",
+        "country_en": "Latvia",
+        "iso_3": "LVA"
+    },
+    "MF": {
+        "country_cn": "法属圣马丁",
+        "country_en": "Saint Martin",
+        "iso_3": "MAF"
+    },
+    "MA": {
+        "country_cn": "摩洛哥",
+        "country_en": "Morocco",
+        "iso_3": "MAR"
+    },
+    "MC": {
+        "country_cn": "摩纳哥",
+        "country_en": "Monaco",
+        "iso_3": "MCO"
+    },
+    "MD": {
+        "country_cn": "摩尔多瓦",
+        "country_en": "Moldova",
+        "iso_3": "MDA"
+    },
+    "MG": {
+        "country_cn": "马达加斯加",
+        "country_en": "Madagascar",
+        "iso_3": "MDG"
+    },
+    "MV": {
+        "country_cn": "马尔代夫",
+        "country_en": "Maldives",
+        "iso_3": "MDV"
+    },
+    "MX": {
+        "country_cn": "墨西哥",
+        "country_en": "Mexico",
+        "iso_3": "MEX"
+    },
+    "MH": {
+        "country_cn": "马绍尔群岛",
+        "country_en": "Marshall Islands",
+        "iso_3": "MHL"
+    },
+    "MK": {
+        "country_cn": "马其顿",
+        "country_en": "Macedonia",
+        "iso_3": "MKD"
+    },
+    "ML": {
+        "country_cn": "马里",
+        "country_en": "Mali",
+        "iso_3": "MLI"
+    },
+    "MT": {
+        "country_cn": "马耳他",
+        "country_en": "Malta",
+        "iso_3": "MLT"
+    },
+    "MM": {
+        "country_cn": "缅甸",
+        "country_en": "Myanmar",
+        "iso_3": "MMR"
+    },
+    "ME": {
+        "country_cn": "黑山",
+        "country_en": "Montenegro",
+        "iso_3": "MNE"
+    },
+    "MN": {
+        "country_cn": "蒙古",
+        "country_en": "Mongolia",
+        "iso_3": "MNG"
+    },
+    "MP": {
+        "country_cn": "北马里亚纳群岛",
+        "country_en": "Northern Mariana Islands",
+        "iso_3": "MNP"
+    },
+    "MZ": {
+        "country_cn": "莫桑比克",
+        "country_en": "Mozambique",
+        "iso_3": "MOZ"
+    },
+    "MR": {
+        "country_cn": "毛里塔尼亚",
+        "country_en": "Mauritania",
+        "iso_3": "MRT"
+    },
+    "MS": {
+        "country_cn": "蒙特塞拉特",
+        "country_en": "Montserrat",
+        "iso_3": "MSR"
+    },
+    "MQ": {
+        "country_cn": "马提尼克",
+        "country_en": "Martinique",
+        "iso_3": "MTQ"
+    },
+    "MU": {
+        "country_cn": "毛里求斯",
+        "country_en": "Mauritius",
+        "iso_3": "MUS"
+    },
+    "MW": {
+        "country_cn": "马拉维",
+        "country_en": "Malawi",
+        "iso_3": "MWI"
+    },
+    "MY": {
+        "country_cn": "马来西亚",
+        "country_en": "Malaysia",
+        "iso_3": "MYS"
+    },
+    "YT": {
+        "country_cn": "马约特",
+        "country_en": "Mayotte",
+        "iso_3": "MYT"
+    },
+    "NA": {
+        "country_cn": "纳米比亚",
+        "country_en": "Namibia",
+        "iso_3": "NAM"
+    },
+    "NC": {
+        "country_cn": "新喀里多尼亚",
+        "country_en": "New Caledonia",
+        "iso_3": "NCL"
+    },
+    "NE": {
+        "country_cn": "尼日尔",
+        "country_en": "Niger",
+        "iso_3": "NER"
+    },
+    "NF": {
+        "country_cn": "诺福克岛",
+        "country_en": "Norfolk Island",
+        "iso_3": "NFK"
+    },
+    "NG": {
+        "country_cn": "尼日利亚",
+        "country_en": "Nigeria",
+        "iso_3": "NGA"
+    },
+    "NI": {
+        "country_cn": "尼加拉瓜",
+        "country_en": "Nicaragua",
+        "iso_3": "NIC"
+    },
+    "NU": {
+        "country_cn": "纽埃",
+        "country_en": "Niue",
+        "iso_3": "NIU"
+    },
+    "NL": {
+        "country_cn": "荷兰",
+        "country_en": "Netherlands",
+        "iso_3": "NLD"
+    },
+    "NO": {
+        "country_cn": "挪威",
+        "country_en": "Norway",
+        "iso_3": "NOR"
+    },
+    "NP": {
+        "country_cn": "尼泊尔",
+        "country_en": "Nepal",
+        "iso_3": "NPL"
+    },
+    "NR": {
+        "country_cn": "瑙鲁",
+        "country_en": "Nauru",
+        "iso_3": "NRU"
+    },
+    "NZ": {
+        "country_cn": "新西兰",
+        "country_en": "New Zealand",
+        "iso_3": "NZL"
+    },
+    "OM": {
+        "country_cn": "阿曼",
+        "country_en": "Oman",
+        "iso_3": "OMN"
+    },
+    "PK": {
+        "country_cn": "巴基斯坦",
+        "country_en": "Pakistan",
+        "iso_3": "PAK"
+    },
+    "PA": {
+        "country_cn": "巴拿马",
+        "country_en": "Panama",
+        "iso_3": "PAN"
+    },
+    "PN": {
+        "country_cn": "皮特凯恩群岛",
+        "country_en": "Pitcairn Islands",
+        "iso_3": "PCN"
+    },
+    "PE": {
+        "country_cn": "秘鲁",
+        "country_en": "Peru",
+        "iso_3": "PER"
+    },
+    "PH": {
+        "country_cn": "菲律宾",
+        "country_en": "Philippines",
+        "iso_3": "PHL"
+    },
+    "PW": {
+        "country_cn": "帕劳",
+        "country_en": "Palau",
+        "iso_3": "PLW"
+    },
+    "PG": {
+        "country_cn": "巴布亚新几内亚",
+        "country_en": "Papua New Guinea",
+        "iso_3": "PNG"
+    },
+    "PL": {
+        "country_cn": "波兰",
+        "country_en": "Poland",
+        "iso_3": "POL"
+    },
+    "PR": {
+        "country_cn": "波多黎各",
+        "country_en": "Puerto Rico",
+        "iso_3": "PRI"
+    },
+    "KP": {
+        "country_cn": "朝鲜",
+        "country_en": "North Korea",
+        "iso_3": "PRK"
+    },
+    "PT": {
+        "country_cn": "葡萄牙",
+        "country_en": "Portugal",
+        "iso_3": "PRT"
+    },
+    "PY": {
+        "country_cn": "巴拉圭",
+        "country_en": "Paraguay",
+        "iso_3": "PRY"
+    },
+    "PS": {
+        "country_cn": "巴勒斯坦",
+        "country_en": "Palestina",
+        "iso_3": "PSE"
+    },
+    "PF": {
+        "country_cn": "塔希提",
+        "country_en": "French Polynesia",
+        "iso_3": "PYF"
+    },
+    "QA": {
+        "country_cn": "卡塔尔",
+        "country_en": "Qatar",
+        "iso_3": "QAT"
+    },
+    "RE": {
+        "country_cn": "留尼汪",
+        "country_en": "Reunion",
+        "iso_3": "REU"
+    },
+    "RO": {
+        "country_cn": "罗马尼亚",
+        "country_en": "Romania",
+        "iso_3": "ROU"
+    },
+    "RU": {
+        "country_cn": "俄罗斯",
+        "country_en": "Russia",
+        "iso_3": "RUS"
+    },
+    "RW": {
+        "country_cn": "卢旺达",
+        "country_en": "Rwanda",
+        "iso_3": "RWA"
+    },
+    "SA": {
+        "country_cn": "沙特阿拉伯",
+        "country_en": "Saudi Arabia",
+        "iso_3": "SAU"
+    },
+    "SD": {
+        "country_cn": "苏丹",
+        "country_en": "Sudan",
+        "iso_3": "SDN"
+    },
+    "SN": {
+        "country_cn": "塞内加尔",
+        "country_en": "Senegal",
+        "iso_3": "SEN"
+    },
+    "SG": {
+        "country_cn": "新加坡",
+        "country_en": "Singapore",
+        "iso_3": "SGP"
+    },
+    "GS": {
+        "country_cn": "南乔治亚和南桑威奇群岛",
+        "country_en": "South Georgia and the South Sandwich Islands",
+        "iso_3": "SGS"
+    },
+    "SH": {
+        "country_cn": "圣赫勒拿、阿森松和特里斯坦-达库尼亚",
+        "country_en": "St Helena, Ascension, and T. Cunha",
+        "iso_3": "SHN"
+    },
+    "SJ": {
+        "country_cn": "斯瓦尔巴和扬马延",
+        "country_en": "Svalbard and Jan Mayen",
+        "iso_3": "SJM"
+    },
+    "SB": {
+        "country_cn": "所罗门群岛",
+        "country_en": "Solomon Islands",
+        "iso_3": "SLB"
+    },
+    "SL": {
+        "country_cn": "塞拉利昂",
+        "country_en": "Sierra Leone",
+        "iso_3": "SLE"
+    },
+    "SV": {
+        "country_cn": "萨尔瓦多",
+        "country_en": "El Salvador",
+        "iso_3": "SLV"
+    },
+    "SM": {
+        "country_cn": "圣马力诺",
+        "country_en": "San Marino",
+        "iso_3": "SMR"
+    },
+    "SO": {
+        "country_cn": "索马里",
+        "country_en": "Somalia",
+        "iso_3": "SOM"
+    },
+    "PM": {
+        "country_cn": "圣皮埃尔和密克隆群岛",
+        "country_en": "Saint Pierre and Miquelon",
+        "iso_3": "SPM"
+    },
+    "RS": {
+        "country_cn": "塞尔维亚",
+        "country_en": "Serbia",
+        "iso_3": "SRB"
+    },
+    "SS": {
+        "country_cn": "南苏丹",
+        "country_en": "South Sudan",
+        "iso_3": "SSD"
+    },
+    "ST": {
+        "country_cn": "圣多美和普林西比",
+        "country_en": "Sao Tome and Principe",
+        "iso_3": "STP"
+    },
+    "SR": {
+        "country_cn": "苏里南",
+        "country_en": "Suriname",
+        "iso_3": "SUR"
+    },
+    "SK": {
+        "country_cn": "斯洛伐克",
+        "country_en": "Slovakia",
+        "iso_3": "SVK"
+    },
+    "SI": {
+        "country_cn": "斯洛文尼亚",
+        "country_en": "Slovenia",
+        "iso_3": "SVN"
+    },
+    "SE": {
+        "country_cn": "瑞典",
+        "country_en": "Sweden",
+        "iso_3": "SWE"
+    },
+    "SZ": {
+        "country_cn": "斯威士兰",
+        "country_en": "Swaziland",
+        "iso_3": "SWZ"
+    },
+    "SX": {
+        "country_cn": "荷属圣马丁",
+        "country_en": "Sint Maarten",
+        "iso_3": "SXM"
+    },
+    "SC": {
+        "country_cn": "塞舌尔",
+        "country_en": "Seychelles",
+        "iso_3": "SYC"
+    },
+    "SY": {
+        "country_cn": "叙利亚",
+        "country_en": "Syria",
+        "iso_3": "SYR"
+    },
+    "TC": {
+        "country_cn": "特克斯和凯科斯群岛",
+        "country_en": "Turks and Caicos Islands",
+        "iso_3": "TCA"
+    },
+    "TD": {
+        "country_cn": "乍得",
+        "country_en": "Chad",
+        "iso_3": "TCD"
+    },
+    "TG": {
+        "country_cn": "多哥",
+        "country_en": "Togo",
+        "iso_3": "TGO"
+    },
+    "TH": {
+        "country_cn": "泰国",
+        "country_en": "Thailand",
+        "iso_3": "THA"
+    },
+    "TJ": {
+        "country_cn": "塔吉克斯坦",
+        "country_en": "Tajikistan",
+        "iso_3": "TJK"
+    },
+    "TK": {
+        "country_cn": "托克劳",
+        "country_en": "Tokelau",
+        "iso_3": "TKL"
+    },
+    "TM": {
+        "country_cn": "土库曼斯坦",
+        "country_en": "Turkmenistan",
+        "iso_3": "TKM"
+    },
+    "TL": {
+        "country_cn": "东帝汶",
+        "country_en": "East Timor",
+        "iso_3": "TLS"
+    },
+    "TO": {
+        "country_cn": "汤加",
+        "country_en": "Tonga",
+        "iso_3": "TON"
+    },
+    "TT": {
+        "country_cn": "特立尼达和多巴哥",
+        "country_en": "Trinidad and Tobago",
+        "iso_3": "TTO"
+    },
+    "TN": {
+        "country_cn": "突尼斯",
+        "country_en": "Tunisia",
+        "iso_3": "TUN"
+    },
+    "TR": {
+        "country_cn": "土耳其",
+        "country_en": "Turkey",
+        "iso_3": "TUR"
+    },
+    "TV": {
+        "country_cn": "图瓦卢",
+        "country_en": "Tuvalu",
+        "iso_3": "TUV"
+    },
+    "TZ": {
+        "country_cn": "坦桑尼亚",
+        "country_en": "Tanzania",
+        "iso_3": "TZA"
+    },
+    "UG": {
+        "country_cn": "乌干达",
+        "country_en": "Uganda",
+        "iso_3": "UGA"
+    },
+    "UA": {
+        "country_cn": "乌克兰",
+        "country_en": "Ukraine",
+        "iso_3": "UKR"
+    },
+    "UM": {
+        "country_cn": "美国本土外小岛屿",
+        "country_en": "United States Minor Outlying Islands",
+        "iso_3": "UMI"
+    },
+    "UY": {
+        "country_cn": "乌拉圭",
+        "country_en": "Uruguay",
+        "iso_3": "URY"
+    },
+    "US": {
+        "country_cn": "美国",
+        "country_en": "United States",
+        "iso_3": "USA"
+    },
+    "UZ": {
+        "country_cn": "乌兹别克斯坦",
+        "country_en": "Uzbekistan",
+        "iso_3": "UZB"
+    },
+    "VA": {
+        "country_cn": "梵蒂冈",
+        "country_en": "Vatican",
+        "iso_3": "VAT"
+    },
+    "VC": {
+        "country_cn": "圣文森特和格林纳丁斯",
+        "country_en": "Saint Vincent and the Grenadines",
+        "iso_3": "VCT"
+    },
+    "VE": {
+        "country_cn": "委内瑞拉",
+        "country_en": "Venezuela",
+        "iso_3": "VEN"
+    },
+    "VG": {
+        "country_cn": "英属维尔京群岛",
+        "country_en": "British Virgin Islands",
+        "iso_3": "VGB"
+    },
+    "VI": {
+        "country_cn": "美属维尔京群岛",
+        "country_en": "Virgin Islands",
+        "iso_3": "VIR"
+    },
+    "VN": {
+        "country_cn": "越南",
+        "country_en": "Vietnam",
+        "iso_3": "VNM"
+    },
+    "VU": {
+        "country_cn": "瓦努阿图",
+        "country_en": "Vanuatu",
+        "iso_3": "VUT"
+    },
+    "WF": {
+        "country_cn": "瓦利斯和富图纳",
+        "country_en": "Wallis and Futuna",
+        "iso_3": "WLF"
+    },
+    "WS": {
+        "country_cn": "萨摩亚",
+        "country_en": "Samoa",
+        "iso_3": "WSM"
+    },
+    "XK": {
+        "country_cn": "科索沃",
+        "country_en": "Kosovo",
+        "iso_3": "XKS"
+    },
+    "YE": {
+        "country_cn": "也门",
+        "country_en": "Yemen",
+        "iso_3": "YEM"
+    },
+    "ZA": {
+        "country_cn": "南非",
+        "country_en": "South Africa",
+        "iso_3": "ZAF"
+    },
+    "ZM": {
+        "country_cn": "赞比亚",
+        "country_en": "Zambia",
+        "iso_3": "ZMB"
+    },
+    "ZW": {
+        "country_cn": "津巴布韦",
+        "country_en": "Zimbabwe",
+        "iso_3": "ZWE"
+    },
+    "JS": {
+        "country_cn": "加沙地带",
+        "country_en": "Gaza Strip",
+        "iso_3": "JSD"
+    }
+}
